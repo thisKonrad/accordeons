@@ -3,7 +3,7 @@
 const accordHead01 = document.querySelector('#header-01');
 const accordHead02 = document.querySelector('#header-02');
 
-/* accordeon 1 with changing signs */
+/* accordeon 1 with changing sign */
 accordHead01.addEventListener('click', ()=>{
 
     accordHead01.classList.toggle('active');
